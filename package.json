@@ -1,0 +1,11 @@
+{
+  "name": "project-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/impactbyte-learn/project-redux",
+  "author": "M Haidar Hanif <git@mhaidarhanif.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "4.0.1"
+  }
+}
